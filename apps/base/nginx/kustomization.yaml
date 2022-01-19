@@ -6,3 +6,5 @@ resources:
  - namespace.yaml
  - release.yaml
  - mysql.yaml 
+ - sealed.yaml
+ - secret-release.yaml

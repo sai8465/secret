@@ -8,3 +8,4 @@ resources:
  - mysql.yaml 
  - sealed.yaml
  - secret-release.yaml
+ - basic-auth.yaml

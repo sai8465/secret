@@ -13,3 +13,7 @@ spec:
         name: bitnami
   interval: 1m0s
   releaseName: mysql
+  values:
+    extraEnvVars:
+      - user: admin
+        password: admin123

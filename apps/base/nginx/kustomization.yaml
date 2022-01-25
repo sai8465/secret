@@ -7,5 +7,3 @@ resources:
  - release.yaml
  - sealed.yaml
  - secret-release.yaml
- - basic-auth.yaml
- - mysql.yaml  

@@ -11,5 +11,4 @@ spec:
     - kind: GitRepository
       name: '*'
     - kind: Kustomization
-      name: '*'
-~                     
+      name: '*'                     
